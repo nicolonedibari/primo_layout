@@ -1,5 +1,6 @@
 
-.titolo{
+.titolo h2{
     font-size: 48px;
-    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    line-height: 1;
 }
