@@ -3,15 +3,8 @@
     font-size: 48px;
     font-weight: bold;
     line-height: 1;
+    margin-top: 60px;
+    padding-bottom: 30px;
+    width: 100%;
 }
 
-.container {
-    display: flex;
-    justify-content: left;
-    align-items: center;
-    height: 224px;
-    width: 710px;
-    padding-bottom: 30px;
-    padding-top: 60px;
-    margin: auto;
-}
